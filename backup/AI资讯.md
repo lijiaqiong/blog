@@ -1,6 +1,7 @@
 ### **分享每日AI资讯**
 
 ——————————————————————
+[AI资讯（5.7）](https://github.com/lijiaqiong/blog/issues/11#issue-2283304968)
 
 [AI资讯（5.6）](https://github.com/lijiaqiong/blog/issues/9#issue-2282670324)
 
